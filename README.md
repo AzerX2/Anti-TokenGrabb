@@ -32,5 +32,5 @@ plusieurs piste aussi \
 => push le token sur un repo public donc discord le regen auto \
 => autre? \
 
-NTM2MjM2OTUxMzYwMTEwNjEz.GuhX8W.JGhw7dtTL_dlGzh_PZJ6US-FsGX3kt3pvRc4kg
+le token si on le push sur un github public en moins de 2s il est regen par discord
 
