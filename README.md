@@ -3,19 +3,19 @@
 Ici, nous aurons mes tentatives de faire un anti token grabb pour bot discord
 Je vais plusieurs version en fonction de ce que le bot fait et ce qu'il nécessite en permission et des activité qu'il fait
 
-plusieurs piste 
+plusieurs piste \n
 
-==> Si répétition d'action sur de nombreux serveur alors suspect 
-==> si le bot n'envoie jamais de mp et qu'il détecte que le bot a envoyé des DM alors suspect
+==> Si répétition d'action sur de nombreux serveur alors suspect \n
+==> si le bot n'envoie jamais de mp et qu'il détecte que le bot a envoyé des DM alors suspect \n
 
 
-Lorsque c'est suspect,
-=> simple avertissement au dev 
-=> ou regen du bot
+Lorsque c'est suspect,\n
+=> simple avertissement au dev \n
+=> ou regen du bot \n 
 
-Pour regen le bot
-plusieurs piste aussi 
+Pour regen le bot,
+plusieurs piste aussi \n
 
-=> push le token sur un repo public donc discord le regen auto 
-=> autre?
+=> push le token sur un repo public donc discord le regen auto \n
+=> autre? \n
 
