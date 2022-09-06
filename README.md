@@ -33,5 +33,3 @@ plusieurs piste aussi \
 => autre? \
 
 le token si on le push sur un github public en moins de 2s il est regen par discord
-
-OTE1MzczNzQ3MTM1OTk1OTM0.G1F0_F.cQeRVGDpLSiohTdAeOiSDlXkjNlzrq-iTZMu1w
